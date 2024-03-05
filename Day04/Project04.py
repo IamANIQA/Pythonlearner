@@ -28,7 +28,6 @@ scissors = '''
 game = [rock, paper, scissors]
 choose = int(input("What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors. "))
 print(game[choose])
-
 import random
 random_choose = random.randint(0,2)
 print("Computer chose: ")
