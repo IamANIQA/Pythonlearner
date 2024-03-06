@@ -6,8 +6,7 @@ print(students_heights)
 total_height = 0
 
 for height in students_heights:
-  total_height += height  
-
+  total_height += height
 
 number_of_students = 0
 
